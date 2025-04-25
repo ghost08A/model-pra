@@ -5,3 +5,5 @@ python-multipart
 joblib
 scikit-learn
 gdown
+numpy
+pillow

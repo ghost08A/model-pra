@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+venv*/ 
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode / PyCharm IDE settings
+.vscode/
+.idea/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Model and large data files
+*.keras
+*.h5
+*.pkl
+*.pt
+*.ckpt
+*.pb
+*.dll
+*.pyd
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+
+/venv310/
+
+/__pycache__/
+
+/model_pra/
